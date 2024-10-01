@@ -16,3 +16,4 @@ else:
 	print("invalid")
 
 print("finish-----")
+print("clear-----")
