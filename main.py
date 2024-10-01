@@ -14,3 +14,5 @@ elif b == '/':
 	print(a / c)
 else:
 	print("invalid")
+
+print("finish-----")
